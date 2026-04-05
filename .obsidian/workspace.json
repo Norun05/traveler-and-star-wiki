@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "환영합니다!.md",
+                "file": "00_schema/AGENTS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "환영합니다!"
+              "title": "AGENTS"
             }
           }
         ]
@@ -40,7 +40,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "custom",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -185,6 +185,28 @@
   },
   "active": "9f199a475af90409",
   "lastOpenFiles": [
-    "환영합니다!.md"
+    "02_wiki/characters/벤자민_카버_설정정리.md",
+    "02_wiki/organizations/기관-엠버폴 센터.md",
+    "02_wiki/organizations/기관-IEB.md",
+    "02_wiki/systems/시스템-음식.md",
+    "02_wiki/characters/인물-오리엔.md",
+    "02_wiki/characters/인물-엠버폴_창구담당.md",
+    "02_wiki/characters/인물-사일린.md",
+    "02_wiki/characters/인물-베아트릭스.md",
+    "02_wiki/00_log.md",
+    "02_wiki/00_index.md",
+    "환영합니다!.md",
+    "02_wiki/systems",
+    "02_wiki/planets",
+    "02_wiki/organizations",
+    "02_wiki/characters",
+    "00_schema/AGENTS.md",
+    "01_raw/hold",
+    "01_raw/drafts",
+    "01_raw/dialogue",
+    "01_raw/무제.md",
+    "02_wiki",
+    "01_raw",
+    "00_schema"
   ]
 }
