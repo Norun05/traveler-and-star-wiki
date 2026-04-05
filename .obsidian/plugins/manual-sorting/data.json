@@ -41,25 +41,59 @@
         "02_wiki/00_log.md",
         "02_wiki/characters",
         "02_wiki/organizations",
+        "02_wiki/systems",
         "02_wiki/planets",
-        "02_wiki/systems"
+        "02_wiki/archive"
+      ],
+      "sortOrder": "custom"
+    },
+    "02_wiki/archive": {
+      "children": [
+        "02_wiki/archive/환영합니다!.md",
+        "02_wiki/archive/행성-코지게임_대화정리.md",
+        "02_wiki/archive/2026-01-20_아야샤_캐릭터시스템_정리.md",
+        "02_wiki/archive/2026-01-20_대화총정리_행성코지게임_+고닷+트와인.md",
+        "02_wiki/archive/00_게임한줄기획.md"
       ],
       "sortOrder": "custom"
     },
     "02_wiki/characters": {
-      "children": [],
+      "children": [
+        "02_wiki/characters/벤자민_카버_설정정리.md",
+        "02_wiki/characters/인물-베아트릭스.md",
+        "02_wiki/characters/인물-사일린.md",
+        "02_wiki/characters/인물-엠버폴_창구담당.md",
+        "02_wiki/characters/인물-오리엔.md"
+      ],
       "sortOrder": "custom"
     },
     "02_wiki/organizations": {
-      "children": [],
+      "children": [
+        "02_wiki/organizations/기관-엠버폴 센터.md",
+        "02_wiki/organizations/기관-IEB.md"
+      ],
       "sortOrder": "custom"
     },
     "02_wiki/planets": {
-      "children": [],
+      "children": [
+        "02_wiki/planets/esnia"
+      ],
+      "sortOrder": "custom"
+    },
+    "02_wiki/planets/esnia": {
+      "children": [
+        "02_wiki/planets/esnia/행성-에스니아-지도.canvas",
+        "02_wiki/planets/esnia/행성-에스니아_생태계.md",
+        "02_wiki/planets/esnia/행성-에스니아.md",
+        "02_wiki/planets/esnia/종족-에스니안.md",
+        "02_wiki/planets/esnia/기관-IEB 에스니아 지부.md"
+      ],
       "sortOrder": "custom"
     },
     "02_wiki/systems": {
-      "children": [],
+      "children": [
+        "02_wiki/systems/시스템-음식.md"
+      ],
       "sortOrder": "custom"
     }
   },
