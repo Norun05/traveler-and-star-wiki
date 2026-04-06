@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_schema/AGENTS.md",
+                "file": "02_wiki/lore/현재_기획_정리.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AGENTS"
+              "title": "현재_기획_정리"
             }
           }
         ]
@@ -183,8 +183,9 @@
       "bases:새 베이스 생성하기": false
     }
   },
-  "active": "24c7fc7a6687a167",
+  "active": "9f199a475af90409",
   "lastOpenFiles": [
+    "00_schema/AGENTS.md",
     "02_wiki/archive/환영합니다!.md",
     "02_wiki/archive/행성-코지게임_대화정리.md",
     "02_wiki/archive/2026-01-20_아야샤_캐릭터시스템_정리.md",
@@ -212,7 +213,6 @@
     "02_wiki/planets",
     "02_wiki/organizations",
     "02_wiki/characters",
-    "00_schema/AGENTS.md",
     "01_raw/hold",
     "01_raw/drafts",
     "01_raw/dialogue",
