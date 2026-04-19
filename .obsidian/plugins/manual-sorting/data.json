@@ -2,6 +2,8 @@
   "customOrder": {
     "/": {
       "children": [
+        "조사.md",
+        "무제.md",
         "00_schema",
         "01_raw",
         "02_wiki",
