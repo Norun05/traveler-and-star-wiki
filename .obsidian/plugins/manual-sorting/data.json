@@ -39,6 +39,7 @@
     },
     "02_wiki": {
       "children": [
+        "02_wiki/tools",
         "02_wiki/lore",
         "02_wiki/index.md",
         "02_wiki/log.md",
@@ -54,6 +55,8 @@
     },
     "02_wiki/archive": {
       "children": [
+        "02_wiki/archive/인물-사일린_v0.2_백업.md",
+        "02_wiki/archive/현재_기획_정리_구버전.md",
         "02_wiki/archive/행성-코지게임_대화정리.md",
         "02_wiki/archive/2026-01-20_아야샤_캐릭터시스템_정리.md",
         "02_wiki/archive/2026-01-20_대화총정리_행성코지게임_+고닷+트와인.md",
@@ -63,6 +66,7 @@
     },
     "02_wiki/characters": {
       "children": [
+        "02_wiki/characters/인물-세르.md",
         "02_wiki/characters/벤자민_카버_설정정리.md",
         "02_wiki/characters/인물-베아트릭스.md",
         "02_wiki/characters/인물-사일린.md",
@@ -73,7 +77,9 @@
     },
     "02_wiki/lore": {
       "children": [
-        "02_wiki/lore/현재_기획_정리.md"
+        "02_wiki/lore/기획_대화정리.md",
+        "02_wiki/lore/도입부_스토리_및_시스템.md",
+        "02_wiki/lore/숙소.md"
       ],
       "sortOrder": "custom"
     },
@@ -92,6 +98,8 @@
     },
     "02_wiki/planets/esnia": {
       "children": [
+        "02_wiki/planets/esnia/지역-베르단.md",
+        "02_wiki/planets/esnia/지역-엠버폴.md",
         "02_wiki/planets/esnia/행성-에스니아-지도.canvas",
         "02_wiki/planets/esnia/행성-에스니아_생태계.md",
         "02_wiki/planets/esnia/행성-에스니아.md",
@@ -102,7 +110,16 @@
     },
     "02_wiki/systems": {
       "children": [
-        "02_wiki/systems/시스템-음식.md"
+        "02_wiki/systems/시스템-음식_구버전.md",
+        "02_wiki/systems/시스템-음식과재배_v2_구버전.md",
+        "02_wiki/systems/시스템-음식과재배_v3.md",
+        "02_wiki/systems/시스템-제작.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "02_wiki/tools": {
+      "children": [
+        "02_wiki/tools/도구-필드패드.md"
       ],
       "sortOrder": "custom"
     }
